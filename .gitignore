@@ -1,0 +1,9 @@
+target/
+out/
+.idea/
+logs/
+.classpath
+.project
+.flattened-pom.xml
+/maven
+/maven.txt
